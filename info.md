@@ -1,17 +1,18 @@
 ### Mutillidae II Information
 * [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
+* [Code Project](#)
+* [Version 2.8.71](https://github.com/webpwnized/mutillidae)
 * [Builder](#)
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](https://github.com/webpwnized/mutillidae)
+* [YouTube](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)
+* [Twitter](https://twitter.com/webpwnized)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/webpwnized/mutillidae)
 
 ### Change Log
-* [changes](#)
+* [changes](https://github.com/webpwnized/mutillidae/tags)
 
