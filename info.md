@@ -1,8 +1,12 @@
-### Project Classification
+#### Classification
 
-* <i class="fas fa-flag" style="color:#2ADA08;"></i> Flagship Project
-* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
+
+#### Audience
+
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### Downloads
 * [Mutillidae](https://github.com/webpwnized/mutillidae)
