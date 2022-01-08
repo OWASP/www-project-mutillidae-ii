@@ -8,7 +8,7 @@
 * <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
 * <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
-### Downloads
+### Downloads / Code Repositories
 * [Mutillidae](https://github.com/webpwnized/mutillidae)
 * [Mutillidae-Docker](https://github.com/webpwnized/mutillidae-docker)
 * [Mutillidae-DockerHub](https://github.com/webpwnized/mutillidae-dockerhub)
@@ -19,12 +19,6 @@
 
 ### Social
 * [Twitter](https://twitter.com/webpwnized)
-
-### Code Repositories
-* [Mutillidae](https://github.com/webpwnized/mutillidae)
-* [Mutillidae-Docker](https://github.com/webpwnized/mutillidae-docker)
-* [Mutillidae-DockerHub](https://github.com/webpwnized/mutillidae-dockerhub)
-* [DockerHub](https://hub.docker.com/r/webpwnized/mutillidae/)
 
 ### Change Logs
 * [Mutillidae](https://github.com/webpwnized/mutillidae/tags)
