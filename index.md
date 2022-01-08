@@ -9,13 +9,13 @@ pitch: A free, open-source, deliberately vulnerable web application providing a 
 
 ---
 
-OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. Mutillidae can be installed on Linux and Windows using LAMP, WAMP, and XAMMP. With dozens of vulnerabilities and hints to help the user; this is an easy-to-use web hacking environment designed for labs, security enthusiast, classrooms, CTF, and vulnerability assessment tool targets.
+OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. With dozens of vulnerabilities and hints to help the user; this is an easy-to-use web hacking environment designed for labs, security enthusiast, classrooms, CTF, and vulnerability assessment tool targets.
 
 ## Features
 
 * Has over 40 vulnerabilities and challenges. Contains at least one vulnerability for each of the OWASP Top Ten 2007, 2010, 2013 and 2017
 * Actually Vulnerable (User not asked to enter “magic” statement)
-* Mutillidae can be installed on Linux or Windows *AMP stacks making it easy for users who do not want to install or administrate their own webserver. Mutillidae is confirmed to work on XAMPP, WAMP, and LAMP.
+* Mutillidae can be installed on Linux and Windows using LAMP, WAMP, and XAMMP, and is available as a Docker build, and pre-built Docker containers
 * Preinstalled on Rapid7 Metasploitable 2, Samurai Web Testing Framework (WTF), and OWASP Broken Web Apps (BWA)
 * System can be restored to default with single-click of "Setup" button
 * User can switch between secure and insecure modes
