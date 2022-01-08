@@ -1,9 +1,5 @@
 ### Mutillidae II Information
-* [Incubator Project](#)
-* [Code Project](#)
-* [Version 2.8.71](https://github.com/webpwnized/mutillidae)
-* [Builder](#)
-* [Breaker](#)
+* [Latest Version](https://github.com/webpwnized/mutillidae)
 
 ### Downloads or Social Links
 * [Download](https://github.com/webpwnized/mutillidae)
