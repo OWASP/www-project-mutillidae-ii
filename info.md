@@ -1,4 +1,4 @@
-### Mutillidae II Information
+### Mutillidae II
 * [Latest Version](https://github.com/webpwnized/mutillidae)
 
 ### Downloads
