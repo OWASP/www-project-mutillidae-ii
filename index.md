@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Mutillidae II
-tags: example-tag
-level: 2
-type: 
-pitch: A very brief, one-line description of your project
+tags: web app application cyber security pen penetration test testing train training practice lab environment php mysql mariadb
+level: 3
+type: code
+pitch: A free, open-source, deliberately vulnerable web application providing a target for web security training
 
 ---
 
