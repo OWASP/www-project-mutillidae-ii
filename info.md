@@ -1,5 +1,8 @@
-### Mutillidae II
-* [Latest Version](https://github.com/webpwnized/mutillidae)
+### Project Classification
+
+* <i class="fas fa-flag" style="color:#2ADA08;"></i> Flagship Project
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### Downloads
 * [Mutillidae](https://github.com/webpwnized/mutillidae)
