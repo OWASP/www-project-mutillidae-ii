@@ -1,7 +1,7 @@
 ### Mutillidae II Information
 * [Latest Version](https://github.com/webpwnized/mutillidae)
 
-### Downloads or Social Links
+### Downloads
 * [Download](https://github.com/webpwnized/mutillidae)
 
 ### Video Tutorials
@@ -15,4 +15,3 @@
 
 ### Change Log
 * [changes](https://github.com/webpwnized/mutillidae/tags)
-
