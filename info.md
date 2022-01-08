@@ -13,8 +13,5 @@
 ### Social
 * [Twitter](https://twitter.com/webpwnized)
 
-### Code Repositories
-* [GitHub](https://github.com/webpwnized/mutillidae)
-
 ### Change Log
-* [Tags](https://github.com/webpwnized/mutillidae/tags)
+* [GitHub Tags](https://github.com/webpwnized/mutillidae/tags)
